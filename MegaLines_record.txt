@@ -1,5 +1,8 @@
 # Megalines Project RECORDS
 
+.DS_Store should be ignored?
+
+
 
 ## June, 25th: 
 
