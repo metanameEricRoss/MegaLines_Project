@@ -17,7 +17,7 @@
 
 ## June, 26:
 
-+ read article on pivot vs. groupby and try to apply it to this project.
+EDA, started with simple charts, and more focused  
 
-
---
+Reveiw and changed stat testing. 
+-- 
